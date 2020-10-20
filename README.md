@@ -75,13 +75,13 @@ The sketching part was confusing but after that is was strate forward. The video
 ## Wheel
 
 ### Description
-
+The wheel is the part the holds the tire.
 ### Evidence
-
+https://cvilleschools.onshape.com/documents/a84fd343993e3f63bb6b1e95/w/8490bb00a844ad0d15743d9d/e/a7b28716f116cdbc0eef940d
 ### Image
-
+Screenshot 2020-10-20 at 3.45.03 PM
 ### Reflection
-
+The wheel was one of the harder parts but onshape made it pretty easy.
 ---
 
 
