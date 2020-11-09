@@ -67,7 +67,7 @@ The tire is a revolved part of the caster.
 
 ### Evidence
 
-[link to onshape]https://cvilleschools.onshape.com/documents/a84fd343993e3f63bb6b1e95/w/8490bb00a844ad0d15743d9d/e/f864c239099b64681cf237bb
+[link to onshape](https://cvilleschools.onshape.com/documents/a84fd343993e3f63bb6b1e95/w/8490bb00a844ad0d15743d9d/e/f864c239099b64681cf237bb)
 
 ### Image
 
