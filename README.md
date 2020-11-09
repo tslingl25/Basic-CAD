@@ -88,11 +88,19 @@ The wheel was one of the harder parts but onshape made it pretty easy.
 ## AxleCollarBearings
 
 ### Description
+
 The axel, collar, and bearings are the parts that allow the wheel to attach to the fork and spin.
+
 ### Evidence
+
 https://cvilleschools.onshape.com/documents?resourceType=filter&nodeId=1
+
 ### Image
-I will come to office hours for help uploading the picture. I forget how.
+
+<img src="Images/Axle.png" Width="300">
+
 ### Reflection
-The axel, coller, and bearings were pretty easy. If I was to do this again I would do all the parts in the same studio.
+
+The axle, coller, and bearings were pretty easy. If I was to do this again I would do all the parts in the same studio.
+
 ---
