@@ -62,13 +62,21 @@ Onshape makes this super easy.
 ## Tire
 
 ### Description
+
 The tire is a revolved part of the caster.
+
 ### Evidence
-https://cvilleschools.onshape.com/documents/a84fd343993e3f63bb6b1e95/w/8490bb00a844ad0d15743d9d/e/f864c239099b64681cf237bb
+
+[Link to Onshape]https://cvilleschools.onshape.com/documents/a84fd343993e3f63bb6b1e95/w/8490bb00a844ad0d15743d9d/e/f864c239099b64681cf237bb
+
 ### Image
-Screenshot 2020-10-13 at 3.54.47 PM
+
+<img src="Images/Tire.png" Width="300">
+
 ### Reflection
+
 The sketching part was confusing but after that is was strate forward. The video helped me alot.
+
 ---
 
 
