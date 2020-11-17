@@ -120,3 +120,20 @@ https://cvilleschools.onshape.com/documents?resourceType=filter&nodeId=1
 The axle, coller, and bearings were pretty easy. If I was to do this again I would do all the parts in the same studio.
 
 ---
+
+
+## SubAssembly
+
+### Description
+
+This is the assembled wheel, axle, and tire.
+
+### Evidence
+
+[link to onshape](https://cvilleschools.onshape.com/documents/caff9aaa5e7f7ac0a12b9211/w/918198b56dc0f695b4d590a3/e/d60b4afc87b197961a2ccf05)
+
+### Image
+
+### Reflection
+
+---
