@@ -134,6 +134,10 @@ This is the assembled wheel, axle, and tire.
 
 ### Image
 
+<img src="Images/Sub-assembly.png" Width="300">
+
 ### Reflection
+
+The video really helped me.
 
 ---
