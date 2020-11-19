@@ -141,3 +141,25 @@ This is the assembled wheel, axle, and tire.
 The video really helped me.
 
 ---
+
+
+## Assembly
+
+### Description
+
+This is the fully assembled caster.
+
+### Evidence
+
+[link to onshape](https://cvilleschools.onshape.com/documents/a84fd343993e3f63bb6b1e95/w/8490bb00a844ad0d15743d9d/e/8be76fc8fa8af9e3976cb5f1)
+
+### Image
+
+
+<img src="Images/assembly.png" Width="300">
+
+### Reflection
+
+The assembly was very straight forward. The only thing is that I had to go back and make my wheel bearings smaller because they were to big.
+
+---
